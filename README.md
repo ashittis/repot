@@ -1,6 +1,3 @@
----
-
-````markdown
 # 🤖 Repot — Chat with Any GitHub Repository
 
 GitHubRepoChat is a local, offline, containerizable LLM-powered app that lets you **chat with any GitHub repository** using **LangChain**, **Llama.cpp**, and **Mistral-7B**. Paste a repo URL, and it downloads, indexes, and allows natural language Q&A about the codebase.
