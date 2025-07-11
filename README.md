@@ -6,7 +6,7 @@ It supports **offline inference**, making it lightweight, fast, and private — 
 
 ![Screenshot 1](https://github.com/ashittis/repot/blob/main/Screenshot%202025-07-11%20191020.png) 
 ![Screenshot 2](https://github.com/ashittis/repot/blob/main/Screenshot%2025-07-11%191613.png)
-![Screenshot 2](https://github.com/ashittis/repot/blob/main/Screenshot%2025-07-11%191613.png)
+![Screenshot 2](https://github.com/ashittis/repot/blob/main/Screenshot%2025-07-11%191820.png)
 ![Screenshot 2](https://github.com/ashittis/repot/blob/main/Screenshot%2025-07-11%191613.png)
 ---
 
