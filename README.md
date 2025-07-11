@@ -5,7 +5,7 @@ GitHubRepoChat is a local, offline, containerizable LLM-powered app that lets yo
 It supports **offline inference**, making it lightweight, fast, and private — ideal for local developers, auditors, or students learning new codebases.
 
 ![Screenshot 1](https://github.com/ashittis/repot/blob/main/Screenshot%202025-07-11%20191020.png) 
-![Screenshot 2](https://github.com/ashittis/repot/blob/main/Screenshot%2025-07-11%20191613.png)
+![Screenshot 2](https://github.com/ashittis/repot/blob/main/Screenshot%202025-07-11%20191613.png)
 ![Screenshot 3](https://github.com/ashittis/repot/blob/main/Screenshot%2025-07-11%20191820.png)
 ![Screenshot 4](https://github.com/ashittis/repot/blob/main/Screenshot%2025-07-11%20192107.png)
 ---
